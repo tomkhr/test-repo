@@ -7,4 +7,7 @@ USEFUL: Create a template.html file that has all the basic HTML code that is nee
 
 
 To see a rendered html/css/js code in the browser we need to use GitHub Pages. Go to Settings of your repo >> Pages >> choose branch (main) and hit Save.
--- To Access the rendered code go to: https://tomkhr.github.io/test-repo/ (or USERNAME.github.io/REPO-NAME).
+
+* To Access the rendered code go to: https://tomkhr.github.io/test-repo/ (or USERNAME.github.io/REPO-NAME).
+
+** It make take up to 5 minuets for changes pushed to origin to reflect in GitHub Pages.
