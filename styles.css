@@ -1,8 +1,15 @@
 body {
     background-color: blue;
-    color: yellow;
+    color: black;
 }
 
 h1 {
-    background-color: red;
+    background-color: yellow;
+}
+
+main {
+    background-color: white;
+    width: 70%;
+    padding: 10px;
+    margin: 0 auto; /* TRouBLe - margins can take 4 value: T, R, B, L. or 2 values TB, RL. */    
 }
